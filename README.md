@@ -1,0 +1,3 @@
+# Stratosphere Ascent
+
+Project initialized.
